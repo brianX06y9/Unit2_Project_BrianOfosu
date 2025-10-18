@@ -1,0 +1,21 @@
+student_id,name,gender,school,region
+S001,Esi Dapaah,Female,Tamale Sec,Northern
+S002,Afua Adjei,Female,Kumasi Tech,Volta
+S003,Kojo Boateng,Male,Legon Senior,Northern
+S004,Kojo Ofori,Male,Akosombo High,Greater Accra
+S005,Akua Mensah,Male,Akosombo High,Greater Accra
+S006,Kwame Adjei,Male,Kumasi Tech,Volta
+S007,Kwame Boateng,Female,Legon Senior,Volta
+S008,Yaw Mensah,Female,Legon Senior,Eastern
+S009,Yaw Mensah,Female,Tamale Sec,Western
+S010,Kwame Ofori,Female,Legon Senior,Eastern
+S011,Afua Ofori,Female,Legon Senior,Western
+S012,Akua Ofori,Female,Legon Senior,Eastern
+S013,Kwame Adjei,Male,Cape Coast High,Northern
+S014,Kwame Boateng,Female,Tamale Sec,Volta
+S015,Akua Adjei,Male,Akosombo High,Greater Accra
+S016,Afua Dapaah,Male,Kumasi Tech,Western
+S017,Akua Boateng,Female,Akosombo High,Western
+S018,Akua Boateng,Male,Tamale Sec,Greater Accra
+S019,Yaw Dapaah,Female,Kumasi Tech,Eastern
+S020,Akua Dapaah,Male,Tamale Sec,Western
